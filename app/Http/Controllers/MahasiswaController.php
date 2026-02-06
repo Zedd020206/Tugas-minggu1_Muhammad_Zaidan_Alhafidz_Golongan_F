@@ -11,8 +11,8 @@ class MahasiswaController extends Controller
         // Mengambil data pertama dari database (contoh)
         // Atau bisa tetap menggunakan data statis seperti sebelumnya
         $data = [
-            'nama' => 'Budi Santoso',
-            'nim' => 'E41230001',
+            'nama' => 'Muhammmad Zaidan Alhafidz',
+            'nim' => 'E41242150',
             'prodi' => 'Teknik Informatika',
             'kampus' => 'Politeknik Negeri Jember'
         ];
